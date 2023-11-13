@@ -14,4 +14,11 @@ void main() {
 
   // Map MyMap = {"name": "Asib", "age": 18, "age": 19};
   // print(MyMap);
+
+  var MapData = {"name": "Asib", "age": 19, "city": "Dhaka"};
+  print(MapData);
+  print(MapData.keys);
+  print(MapData.values);
+  print(MapData["name"]);
+  print(MapData["city"]);
 }
