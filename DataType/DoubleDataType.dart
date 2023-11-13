@@ -10,4 +10,7 @@ void main() {
   roll = 2;
   roll = 3;
   print(roll);
+
+  double reg = 1234;
+  print(reg);
 }
