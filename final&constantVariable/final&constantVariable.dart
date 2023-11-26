@@ -18,9 +18,9 @@ void main() {
   const double pi = 3.1416;
   //pi = 44;
   print(pi);
-
   const MyNumb = 233333333333;
   print(MyNumb);
+  //const myNumb;
 }
 
 class finalConstant {
